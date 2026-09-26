@@ -13,7 +13,7 @@ I'm an aspiring **SOC Analyst** focused on security monitoring, log analysis, th
 * Threat Detection
 * Incident Investigation
 * Network Traffic Analysis
-* Windows Event & Sysmon Analysis
+* Windows Event
 * Web Security
 * MITRE ATT&CK
 
@@ -22,7 +22,7 @@ I'm an aspiring **SOC Analyst** focused on security monitoring, log analysis, th
 ## 🔧 Tools & Technologies
 
 **Security**
-`Splunk` `Sysmon` `Wireshark` `CyberDefenders` `PortSwigger`
+`Splunk` `Wireshark` `CyberDefenders` `PortSwigger`
 
 **Programming & Scripting**
 `Python` `Bash`
@@ -34,23 +34,46 @@ I'm an aspiring **SOC Analyst** focused on security monitoring, log analysis, th
 
 ## 🚀 Featured Projects
 
-### 🔎 SOC Analyst Labs
+<table>
+  <tr>
+    <td width="50%">
+      <h3>🔎 SOC Analyst Labs</h3>
+      <p>
+        Hands-on SOC investigations covering security alerts,
+        log analysis, network traffic, and incident investigation.
+      </p>
+      <a href="https://github.com/a1sad1g/soc-analyst-labs">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+  </tr>
 
-Hands-on SOC investigations covering security alerts, log analysis, network traffic, and incident investigation.
+  <tr>
+    <td width="50%">
+      <h3>📊 Security Log Analyzer</h3>
+      <p>
+        A Python-based tool for analyzing security logs,
+        identifying suspicious activity, and generating structured results.
+      </p>
+      <a href="https://github.com/a1sad1g/log_analyzer">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+  </tr>
 
-→ [View SOC Analyst Labs](https://github.com/a1sad1g/soc-analyst-labs)
-
-### 📊 Security Log Analyzer
-
-A Python-based tool for analyzing security logs, identifying suspicious activity, and generating structured results.
-
-→ [View Log Analyzer](https://github.com/a1sad1g/log_analyzer)
-
-### 🌐 PortSwigger Labs
-
-Hands-on web security labs focused on understanding and identifying common web application vulnerabilities.
-
-→ [View PortSwigger Labs](https://github.com/a1sad1g/PortSwigger-Labs)
+  <tr>
+    <td width="50%">
+      <h3>🌐 PortSwigger Labs</h3>
+      <p>
+        Hands-on web security labs focused on identifying
+        common web application vulnerabilities.
+      </p>
+      <a href="https://github.com/a1sad1g/PortSwigger-Labs">
+        <strong>View Project →</strong>
+      </a>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -70,7 +93,6 @@ Hands-on web security labs focused on understanding and identifying common web a
 I'm currently developing my practical skills in:
 
 * SIEM investigation with **Splunk**
-* Windows security monitoring with **Sysmon**
 * SOC alert triage
 * Detection engineering
 * Threat hunting
