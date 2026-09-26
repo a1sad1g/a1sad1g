@@ -32,50 +32,6 @@ I'm an aspiring **SOC Analyst** focused on security monitoring, log analysis, th
 
 ---
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="50%">
-      <h3>🔎 SOC Analyst Labs</h3>
-      <p>
-        Hands-on SOC investigations covering security alerts,
-        log analysis, network traffic, and incident investigation.
-      </p>
-      <a href="https://github.com/a1sad1g/soc-analyst-labs">
-        <strong>View Project →</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>📊 Security Log Analyzer</h3>
-      <p>
-        A Python-based tool for analyzing security logs,
-        identifying suspicious activity, and generating structured results.
-      </p>
-      <a href="https://github.com/a1sad1g/log_analyzer">
-        <strong>View Project →</strong>
-      </a>
-    </td>
-  </tr>
-
-  <tr>
-    <td width="50%">
-      <h3>🌐 PortSwigger Labs</h3>
-      <p>
-        Hands-on web security labs focused on identifying
-        common web application vulnerabilities.
-      </p>
-      <a href="https://github.com/a1sad1g/PortSwigger-Labs">
-        <strong>View Project →</strong>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
 
 ## 📚 Certifications & Learning
 
